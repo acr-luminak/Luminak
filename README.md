@@ -16,79 +16,79 @@ The following project is minimum viable product to test the product on the marke
 
 **A. User Profile**
 
-    - Basic registration/login (email/phone, social login).
+- Basic registration/login (email/phone, social login).
 
-    - Personal information (name, contact details).
+- Personal information (name, contact details).
 
-    - Saved payment methods (optional for MVP).
+- Saved payment methods (optional for MVP).
 
 **B. Search & Browse**
 
-    - Categories (e.g., Automotive Parts, Printing Services).
+- Categories (e.g., Automotive Parts, Printing Services).
 
-    - Keyword search with filters (price, location, availability).
+- Keyword search with filters (price, location, availability).
 
 **C. Service/Product Listings**
 
-    - Basic details (title, description, price, availability).
+- Basic details (title, description, price, availability).
 
-    - Images for products/services.
+- Images for products/services.
 
 **D. Booking & Scheduling**
 
-    - Simple service booking (date/time selection).
+- Simple service booking (date/time selection).
 
-    - Basic calendar integration for appointments.
+- Basic calendar integration for appointments.
 
 **E. Communication**
 
-    - In-app messaging with business owners.
+- In-app messaging with business owners.
 
-    - Notifications for booking confirmations/updates.
+- Notifications for booking confirmations/updates.
 
 **F. Payments**
 
-    - Secure checkout (card, digital wallet, or COD).
+- Secure checkout (card, digital wallet, or COD).
 
-    - Transaction history (basic list of past orders).
+- Transaction history (basic list of past orders).
 
 **G. Reviews & Ratings**
 
-    - Star ratings and text reviews for services/products.
+- Star ratings and text reviews for services/products.
 
 ### 2. Business Owner Features
 
 **A. Business Profile**
 
-    - Registration (business name, contact, location, operating hours).
+- Registration (business name, contact, location, operating hours).
 
-    - Service categories (e.g., Printing, Welding).
+- Service categories (e.g., Printing, Welding).
 
 **B. Service/Product Management**
 
-    - Add/edit/delete listings (title, description, price, images).
+- Add/edit/delete listings (title, description, price, images).
 
-    - Toggle for availability (in-stock/out-of-stock).
+- Toggle for availability (in-stock/out-of-stock).
 
 **C. Booking Management**
 
-    - View/accept/reject bookings.
+- View/accept/reject bookings.
 
-    - Calendar for scheduling.
+- Calendar for scheduling.
 
 **D. Communication**
 
-    - Messaging with consumers.
+- Messaging with consumers.
 
-    - Notifications for new bookings/messages.
+- Notifications for new bookings/messages.
 
 **E. Basic Analytics**
 
-    - Number of bookings/services sold (simple dashboard).
+- Number of bookings/services sold (simple dashboard).
 
 **F. Reviews & Ratings**
 
-    - View and respond to customer reviews.
+- View and respond to customer reviews.
 
 ## Excluded for MVP
 
